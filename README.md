@@ -1,5 +1,23 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## Requirements
+
+Install these before running the app (especially for **Android** builds):
+
+| Tool | Version |
+|------|---------|
+| **Node.js** | **>= 22.11.0** — see `package.json` → `"engines"` for the exact rule your team uses. |
+| **JDK** | **11** — this repo is developed with **JDK 11** on the maintainer’s machine. Point **`JAVA_HOME`** at that JDK (or use Android Studio’s JDK if it matches). If Gradle or the Android plugin reports a **minimum Java version** error, install **JDK 17** or **21** (LTS) and try again — newer React Native / AGP versions sometimes require 17+. |
+
+Confirm locally:
+
+```sh
+node -v
+java -version
+```
+
+For **iOS**, you also need **Xcode** and **CocoaPods** (see Getting Started below).
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
