@@ -70,3 +70,13 @@ Before installing the project dependencies, verify Node.js and Java:
 node -v
 npm -v
 java -version
+
+
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="250" />
+  <img src="screenshots/products.png" width="250" />
+  <img src="screenshots/detail.png" width="250" />
+</p>
