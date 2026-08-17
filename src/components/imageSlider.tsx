@@ -179,6 +179,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
     fontFamily: "serif",
+    padding: 4,
   },
   subText: {
     color: "#fff",
