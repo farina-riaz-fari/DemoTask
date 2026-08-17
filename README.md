@@ -79,7 +79,7 @@ java -version
 ![Home Screen](./screenshots/home.png)
 
 ### Details Screen
-![Details Screen](./screenshots/details.png)
+![Details Screen](./screenshots/products.png)
 
 ### Cart Screen
-![Cart Screen](./screenshots/cart.png)
+![Cart Screen](./screenshots/detail.png)
