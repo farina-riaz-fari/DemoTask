@@ -70,6 +70,7 @@ Before installing the project dependencies, verify Node.js and Java:
 node -v
 npm -v
 java -version
+```
 
 
 
@@ -82,4 +83,4 @@ java -version
 ![Details Screen](./screenshots/products.png)
 
 ### Cart Screen
-![Cart Screen](./screenshots/detail.png)
+![Cart Screen](./screenshots/cart.png)
