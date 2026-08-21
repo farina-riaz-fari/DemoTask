@@ -76,11 +76,8 @@ java -version
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](./screenshots/home.png)
-
-### Details Screen
-![Details Screen](./screenshots/products.png)
-
-### Cart Screen
-![Cart Screen](./screenshots/cart.png)
+<p align="center">
+  <img src="./screenshots/home.png" width="250">
+  <img src="./screenshots/detail.png" width="250">
+  <img src="./screenshots/cart.png" width="250">
+</p>
