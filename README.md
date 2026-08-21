@@ -78,6 +78,6 @@ java -version
 
 <p align="center">
   <img src="./screenshots/home.png" width="250">
-  <img src="./screenshots/detail.png" width="250">
+  <img src="./screenshots/products.png" width="250">
   <img src="./screenshots/cart.png" width="250">
 </p>
